@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>LoginForm</class>
+ <widget class="QWidget" name="LoginForm">
+  <property name="windowTitle">
+   <string>Mining Exam Prep Login</string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

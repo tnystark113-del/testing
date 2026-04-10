@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainDashboard</class>
+ <widget class="QMainWindow" name="MainDashboard">
+  <property name="windowTitle">
+   <string>Mining Exam Prep Dashboard</string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

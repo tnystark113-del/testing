@@ -1,0 +1,1 @@
+"""Mining Quiz App package."""
